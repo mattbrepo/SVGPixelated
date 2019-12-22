@@ -12,10 +12,10 @@ Just having fun.
 
 Check also image/image.html
 
-From:
-
-![origin](/images/image.png)
-
-To:
+Result:
 
 ![result](/images/image_res.png)
+
+[Origin](https://en.wikipedia.org/wiki/Portrait_of_a_Young_Woman_(Pollaiolo)):
+
+![origin](/images/image.png)
