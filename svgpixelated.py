@@ -21,13 +21,13 @@ def getDominantColor(img, startx, endx, starty, endy):
 # Main
 #
 
-img = Image.open('image.png')
+img = Image.open('images/image.png')
 width, height = img.size
 radius = 7
 diameter = radius * 2
 stroke_w = 1
 
-html = open("image.html","w+")
+html = open("images/image.html","w+")
 
 html.write('<!DOCTYPE html>' + "\n")
 html.write('<html>' + "\n")
