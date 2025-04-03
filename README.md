@@ -16,6 +16,6 @@ Result:
 
 ![result](/images/image_res.png)
 
-[Original](https://en.wikipedia.org/wiki/Portrait_of_a_Young_Woman_(Pollaiolo)):
+[Original](https://en.wikipedia.org/wiki/Portrait_of_a_Young_Woman_(Pollaiuolo)):
 
-![original](/images/image.png)
+![Portrait of a Young Woman (Pollaiolo)](/images/image.png)
